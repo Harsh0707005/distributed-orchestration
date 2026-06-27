@@ -1,0 +1,2010 @@
+[
+    {
+        "country_id": "1",
+        "country_name": "Afghanistan",
+        "country_code": "AF",
+        "currency": "AFN",
+        "currency_symbol": "؋",
+        "mobile_code": "+93"
+    },
+    {
+        "country_id": "2",
+        "country_name": "Åland Islands",
+        "country_code": "AX",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+358"
+    },
+    {
+        "country_id": "3",
+        "country_name": "Albania",
+        "country_code": "AL",
+        "currency": "ALL",
+        "currency_symbol": "L",
+        "mobile_code": "+355"
+    },
+    {
+        "country_id": "4",
+        "country_name": "Algeria",
+        "country_code": "DZ",
+        "currency": "DZD",
+        "currency_symbol": "د.ج",
+        "mobile_code": "+213"
+    },
+    {
+        "country_id": "5",
+        "country_name": "American Samoa",
+        "country_code": "AS",
+        "currency": "USD",
+        "currency_symbol": "$",
+        "mobile_code": "+1-684"
+    },
+    {
+        "country_id": "6",
+        "country_name": "Andorra",
+        "country_code": "AD",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+376"
+    },
+    {
+        "country_id": "7",
+        "country_name": "Angola",
+        "country_code": "AO",
+        "currency": "AOA",
+        "currency_symbol": "Kz",
+        "mobile_code": "+244"
+    },
+    {
+        "country_id": "8",
+        "country_name": "Anguilla",
+        "country_code": "AI",
+        "currency": "XCD",
+        "currency_symbol": "$",
+        "mobile_code": "+1-264"
+    },
+    {
+        "country_id": "9",
+        "country_name": "Antarctica",
+        "country_code": "AQ",
+        "currency": " ",
+        "currency_symbol": " ",
+        "mobile_code": "+672"
+    },
+    {
+        "country_id": "10",
+        "country_name": "Antigua and Barbuda",
+        "country_code": "AG",
+        "currency": "XCD",
+        "currency_symbol": "$",
+        "mobile_code": "+1-268"
+    },
+    {
+        "country_id": "11",
+        "country_name": "Argentina",
+        "country_code": "AR",
+        "currency": "ARS",
+        "currency_symbol": "$",
+        "mobile_code": "+54"
+    },
+    {
+        "country_id": "12",
+        "country_name": "Armenia",
+        "country_code": "AM",
+        "currency": "AMD",
+        "currency_symbol": "֏",
+        "mobile_code": "+374"
+    },
+    {
+        "country_id": "13",
+        "country_name": "Aruba",
+        "country_code": "AW",
+        "currency": "AWG",
+        "currency_symbol": "ƒ",
+        "mobile_code": "+297"
+    },
+    {
+        "country_id": "14",
+        "country_name": "Australia",
+        "country_code": "AU",
+        "currency": "AUD",
+        "currency_symbol": "$",
+        "mobile_code": "+61"
+    },
+    {
+        "country_id": "15",
+        "country_name": "Austria",
+        "country_code": "AT",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+43"
+    },
+    {
+        "country_id": "16",
+        "country_name": "Azerbaijan",
+        "country_code": "AZ",
+        "currency": "AZN",
+        "currency_symbol": "₼",
+        "mobile_code": "+994"
+    },
+    {
+        "country_id": "17",
+        "country_name": "Bahamas",
+        "country_code": "BS",
+        "currency": "BSD",
+        "currency_symbol": "$",
+        "mobile_code": "+1-242"
+    },
+    {
+        "country_id": "18",
+        "country_name": "Bahrain",
+        "country_code": "BH",
+        "currency": "BHD",
+        "currency_symbol": ".د.ب",
+        "mobile_code": "+973"
+    },
+    {
+        "country_id": "19",
+        "country_name": "Bangladesh",
+        "country_code": "BD",
+        "currency": "BDT",
+        "currency_symbol": "৳",
+        "mobile_code": "+880"
+    },
+    {
+        "country_id": "20",
+        "country_name": "Barbados",
+        "country_code": "BB",
+        "currency": "BBD",
+        "currency_symbol": "$",
+        "mobile_code": "+1-246"
+    },
+    {
+        "country_id": "21",
+        "country_name": "Belarus",
+        "country_code": "BY",
+        "currency": "BYN",
+        "currency_symbol": "Br",
+        "mobile_code": "+375"
+    },
+    {
+        "country_id": "22",
+        "country_name": "Belgium",
+        "country_code": "BE",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+32"
+    },
+    {
+        "country_id": "23",
+        "country_name": "Belize",
+        "country_code": "BZ",
+        "currency": "BZD",
+        "currency_symbol": "$",
+        "mobile_code": "+501"
+    },
+    {
+        "country_id": "24",
+        "country_name": "Benin",
+        "country_code": "BJ",
+        "currency": "XOF",
+        "currency_symbol": "Fr",
+        "mobile_code": "+229"
+    },
+    {
+        "country_id": "25",
+        "country_name": "Bermuda",
+        "country_code": "BM",
+        "currency": "BMD",
+        "currency_symbol": "$",
+        "mobile_code": "+1-441"
+    },
+    {
+        "country_id": "26",
+        "country_name": "Bhutan",
+        "country_code": "BT",
+        "currency": "BTN",
+        "currency_symbol": "Nu.",
+        "mobile_code": "+975"
+    },
+    {
+        "country_id": "27",
+        "country_name": "Bolivia",
+        "country_code": "BO",
+        "currency": "BOB",
+        "currency_symbol": "Bs.",
+        "mobile_code": "+591"
+    },
+    {
+        "country_id": "28",
+        "country_name": "Bosnia and Herzegovina",
+        "country_code": "BA",
+        "currency": "BAM",
+        "currency_symbol": "N/A",
+        "mobile_code": "+387"
+    },
+    {
+        "country_id": "29",
+        "country_name": "Botswana",
+        "country_code": "BW",
+        "currency": "BWP",
+        "currency_symbol": "P",
+        "mobile_code": "+267"
+    },
+    {
+        "country_id": "30",
+        "country_name": "Bouvet Island",
+        "country_code": "BV",
+        "currency": " ",
+        "currency_symbol": " ",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "31",
+        "country_name": "Brazil",
+        "country_code": "BR",
+        "currency": "BRL",
+        "currency_symbol": "R$",
+        "mobile_code": "+55"
+    },
+    {
+        "country_id": "32",
+        "country_name": "British Indian Ocean Territory",
+        "country_code": "IO",
+        "currency": "USD",
+        "currency_symbol": "$",
+        "mobile_code": "+246"
+    },
+    {
+        "country_id": "33",
+        "country_name": "British Virgin Islands",
+        "country_code": "VG",
+        "currency": "USD",
+        "currency_symbol": "$",
+        "mobile_code": "+1-284"
+    },
+    {
+        "country_id": "34",
+        "country_name": "Brunei",
+        "country_code": "BN",
+        "currency": "BND",
+        "currency_symbol": "$",
+        "mobile_code": "+673"
+    },
+    {
+        "country_id": "35",
+        "country_name": "Bulgaria",
+        "country_code": "BG",
+        "currency": "BGN",
+        "currency_symbol": "лв",
+        "mobile_code": "+359"
+    },
+    {
+        "country_id": "36",
+        "country_name": "Burkina Faso",
+        "country_code": "BF",
+        "currency": "XOF",
+        "currency_symbol": "Fr",
+        "mobile_code": "+226"
+    },
+    {
+        "country_id": "37",
+        "country_name": "Burundi",
+        "country_code": "BI",
+        "currency": "BIF",
+        "currency_symbol": "Fr",
+        "mobile_code": "+257"
+    },
+    {
+        "country_id": "38",
+        "country_name": "Cambodia",
+        "country_code": "KH",
+        "currency": "KHR",
+        "currency_symbol": "៛",
+        "mobile_code": "+855"
+    },
+    {
+        "country_id": "39",
+        "country_name": "Cameroon",
+        "country_code": "CM",
+        "currency": "XAF",
+        "currency_symbol": "Fr",
+        "mobile_code": "+237"
+    },
+    {
+        "country_id": "40",
+        "country_name": "Canada",
+        "country_code": "CA",
+        "currency": "CAD",
+        "currency_symbol": "$",
+        "mobile_code": "+1"
+    },
+    {
+        "country_id": "41",
+        "country_name": "Cape Verde",
+        "country_code": "CV",
+        "currency": "CVE",
+        "currency_symbol": "Esc",
+        "mobile_code": "+238"
+    },
+    {
+        "country_id": "42",
+        "country_name": "Caribbean Netherlands",
+        "country_code": "BQ",
+        "currency": "USD",
+        "currency_symbol": "$",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "43",
+        "country_name": "Cayman Islands",
+        "country_code": "KY",
+        "currency": "KYD",
+        "currency_symbol": "$",
+        "mobile_code": "+1-345"
+    },
+    {
+        "country_id": "44",
+        "country_name": "Central African Republic",
+        "country_code": "CF",
+        "currency": "XAF",
+        "currency_symbol": "Fr",
+        "mobile_code": "+236"
+    },
+    {
+        "country_id": "45",
+        "country_name": "Chad",
+        "country_code": "TD",
+        "currency": "XAF",
+        "currency_symbol": "Fr",
+        "mobile_code": "+235"
+    },
+    {
+        "country_id": "46",
+        "country_name": "Chile",
+        "country_code": "CL",
+        "currency": "CLP",
+        "currency_symbol": "$",
+        "mobile_code": "+56"
+    },
+    {
+        "country_id": "47",
+        "country_name": "China",
+        "country_code": "CN",
+        "currency": "CNY",
+        "currency_symbol": "¥",
+        "mobile_code": "+86"
+    },
+    {
+        "country_id": "48",
+        "country_name": "Christmas Island",
+        "country_code": "CX",
+        "currency": "AUD",
+        "currency_symbol": "$",
+        "mobile_code": "+61"
+    },
+    {
+        "country_id": "49",
+        "country_name": "Cocos (Keeling) Islands",
+        "country_code": "CC",
+        "currency": "AUD",
+        "currency_symbol": "$",
+        "mobile_code": "+61"
+    },
+    {
+        "country_id": "50",
+        "country_name": "Colombia",
+        "country_code": "CO",
+        "currency": "COP",
+        "currency_symbol": "$",
+        "mobile_code": "+57"
+    },
+    {
+        "country_id": "51",
+        "country_name": "Comoros",
+        "country_code": "KM",
+        "currency": "KMF",
+        "currency_symbol": "Fr",
+        "mobile_code": "+269"
+    },
+    {
+        "country_id": "52",
+        "country_name": "Cook Islands",
+        "country_code": "CK",
+        "currency": "CKD",
+        "currency_symbol": "$",
+        "mobile_code": "+682"
+    },
+    {
+        "country_id": "53",
+        "country_name": "Costa Rica",
+        "country_code": "CR",
+        "currency": "CRC",
+        "currency_symbol": "₡",
+        "mobile_code": "+506"
+    },
+    {
+        "country_id": "54",
+        "country_name": "Croatia",
+        "country_code": "HR",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+385"
+    },
+    {
+        "country_id": "55",
+        "country_name": "Cuba",
+        "country_code": "CU",
+        "currency": "CUC",
+        "currency_symbol": "$",
+        "mobile_code": "+53"
+    },
+    {
+        "country_id": "56",
+        "country_name": "Curaçao",
+        "country_code": "CW",
+        "currency": "ANG",
+        "currency_symbol": "ƒ",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "57",
+        "country_name": "Cyprus",
+        "country_code": "CY",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+357"
+    },
+    {
+        "country_id": "58",
+        "country_name": "Czechia",
+        "country_code": "CZ",
+        "currency": "CZK",
+        "currency_symbol": "Kč",
+        "mobile_code": "+420"
+    },
+    {
+        "country_id": "59",
+        "country_name": "Denmark",
+        "country_code": "DK",
+        "currency": "DKK",
+        "currency_symbol": "kr",
+        "mobile_code": "+45"
+    },
+    {
+        "country_id": "60",
+        "country_name": "Djibouti",
+        "country_code": "DJ",
+        "currency": "DJF",
+        "currency_symbol": "Fr",
+        "mobile_code": "+253"
+    },
+    {
+        "country_id": "61",
+        "country_name": "Dominica",
+        "country_code": "DM",
+        "currency": "XCD",
+        "currency_symbol": "$",
+        "mobile_code": "+1-767"
+    },
+    {
+        "country_id": "62",
+        "country_name": "Dominican Republic",
+        "country_code": "DO",
+        "currency": "DOP",
+        "currency_symbol": "$",
+        "mobile_code": "+1-809"
+    },
+    {
+        "country_id": "63",
+        "country_name": "DR Congo",
+        "country_code": "CD",
+        "currency": "CDF",
+        "currency_symbol": "FC",
+        "mobile_code": "+243"
+    },
+    {
+        "country_id": "64",
+        "country_name": "Ecuador",
+        "country_code": "EC",
+        "currency": "USD",
+        "currency_symbol": "$",
+        "mobile_code": "+593"
+    },
+    {
+        "country_id": "65",
+        "country_name": "Egypt",
+        "country_code": "EG",
+        "currency": "EGP",
+        "currency_symbol": "£",
+        "mobile_code": "+20"
+    },
+    {
+        "country_id": "66",
+        "country_name": "El Salvador",
+        "country_code": "SV",
+        "currency": "USD",
+        "currency_symbol": "$",
+        "mobile_code": "+503"
+    },
+    {
+        "country_id": "67",
+        "country_name": "Equatorial Guinea",
+        "country_code": "GQ",
+        "currency": "XAF",
+        "currency_symbol": "Fr",
+        "mobile_code": "+240"
+    },
+    {
+        "country_id": "68",
+        "country_name": "Eritrea",
+        "country_code": "ER",
+        "currency": "ERN",
+        "currency_symbol": "Nfk",
+        "mobile_code": "+291"
+    },
+    {
+        "country_id": "69",
+        "country_name": "Estonia",
+        "country_code": "EE",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+372"
+    },
+    {
+        "country_id": "70",
+        "country_name": "Eswatini",
+        "country_code": "SZ",
+        "currency": "SZL",
+        "currency_symbol": "L",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "71",
+        "country_name": "Ethiopia",
+        "country_code": "ET",
+        "currency": "ETB",
+        "currency_symbol": "Br",
+        "mobile_code": "+251"
+    },
+    {
+        "country_id": "72",
+        "country_name": "Falkland Islands",
+        "country_code": "FK",
+        "currency": "FKP",
+        "currency_symbol": "£",
+        "mobile_code": "+500"
+    },
+    {
+        "country_id": "73",
+        "country_name": "Faroe Islands",
+        "country_code": "FO",
+        "currency": "DKK",
+        "currency_symbol": "kr",
+        "mobile_code": "+298"
+    },
+    {
+        "country_id": "74",
+        "country_name": "Fiji",
+        "country_code": "FJ",
+        "currency": "FJD",
+        "currency_symbol": "$",
+        "mobile_code": "+679"
+    },
+    {
+        "country_id": "75",
+        "country_name": "Finland",
+        "country_code": "FI",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+358"
+    },
+    {
+        "country_id": "76",
+        "country_name": "France",
+        "country_code": "FR",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+33"
+    },
+    {
+        "country_id": "77",
+        "country_name": "French Guiana",
+        "country_code": "GF",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "78",
+        "country_name": "French Polynesia",
+        "country_code": "PF",
+        "currency": "XPF",
+        "currency_symbol": "₣",
+        "mobile_code": "+689"
+    },
+    {
+        "country_id": "79",
+        "country_name": "French Southern and Antarctic Lands",
+        "country_code": "TF",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "80",
+        "country_name": "Gabon",
+        "country_code": "GA",
+        "currency": "XAF",
+        "currency_symbol": "Fr",
+        "mobile_code": "+241"
+    },
+    {
+        "country_id": "81",
+        "country_name": "Gambia",
+        "country_code": "GM",
+        "currency": "GMD",
+        "currency_symbol": "D",
+        "mobile_code": "+220"
+    },
+    {
+        "country_id": "82",
+        "country_name": "Georgia",
+        "country_code": "GE",
+        "currency": "GEL",
+        "currency_symbol": "₾",
+        "mobile_code": "+995"
+    },
+    {
+        "country_id": "83",
+        "country_name": "Germany",
+        "country_code": "DE",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+49"
+    },
+    {
+        "country_id": "84",
+        "country_name": "Ghana",
+        "country_code": "GH",
+        "currency": "GHS",
+        "currency_symbol": "₵",
+        "mobile_code": "+233"
+    },
+    {
+        "country_id": "85",
+        "country_name": "Gibraltar",
+        "country_code": "GI",
+        "currency": "GIP",
+        "currency_symbol": "£",
+        "mobile_code": "+350"
+    },
+    {
+        "country_id": "86",
+        "country_name": "Greece",
+        "country_code": "GR",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+30"
+    },
+    {
+        "country_id": "87",
+        "country_name": "Greenland",
+        "country_code": "GL",
+        "currency": "DKK",
+        "currency_symbol": "kr.",
+        "mobile_code": "+299"
+    },
+    {
+        "country_id": "88",
+        "country_name": "Grenada",
+        "country_code": "GD",
+        "currency": "XCD",
+        "currency_symbol": "$",
+        "mobile_code": "+1-473"
+    },
+    {
+        "country_id": "89",
+        "country_name": "Guadeloupe",
+        "country_code": "GP",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "90",
+        "country_name": "Guam",
+        "country_code": "GU",
+        "currency": "USD",
+        "currency_symbol": "$",
+        "mobile_code": "+1-671"
+    },
+    {
+        "country_id": "91",
+        "country_name": "Guatemala",
+        "country_code": "GT",
+        "currency": "GTQ",
+        "currency_symbol": "Q",
+        "mobile_code": "+502"
+    },
+    {
+        "country_id": "92",
+        "country_name": "Guernsey",
+        "country_code": "GG",
+        "currency": "GBP",
+        "currency_symbol": "£",
+        "mobile_code": "+44-1481"
+    },
+    {
+        "country_id": "93",
+        "country_name": "Guinea",
+        "country_code": "GN",
+        "currency": "GNF",
+        "currency_symbol": "Fr",
+        "mobile_code": "+224"
+    },
+    {
+        "country_id": "94",
+        "country_name": "Guinea-Bissau",
+        "country_code": "GW",
+        "currency": "XOF",
+        "currency_symbol": "Fr",
+        "mobile_code": "+245"
+    },
+    {
+        "country_id": "95",
+        "country_name": "Guyana",
+        "country_code": "GY",
+        "currency": "GYD",
+        "currency_symbol": "$",
+        "mobile_code": "+592"
+    },
+    {
+        "country_id": "96",
+        "country_name": "Haiti",
+        "country_code": "HT",
+        "currency": "HTG",
+        "currency_symbol": "G",
+        "mobile_code": "+509"
+    },
+    {
+        "country_id": "97",
+        "country_name": "Heard Island and McDonald Islands",
+        "country_code": "HM",
+        "currency": " ",
+        "currency_symbol": " ",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "98",
+        "country_name": "Honduras",
+        "country_code": "HN",
+        "currency": "HNL",
+        "currency_symbol": "L",
+        "mobile_code": "+504"
+    },
+    {
+        "country_id": "99",
+        "country_name": "Hong Kong",
+        "country_code": "HK",
+        "currency": "HKD",
+        "currency_symbol": "$",
+        "mobile_code": "+852"
+    },
+    {
+        "country_id": "100",
+        "country_name": "Hungary",
+        "country_code": "HU",
+        "currency": "HUF",
+        "currency_symbol": "Ft",
+        "mobile_code": "+36"
+    },
+    {
+        "country_id": "101",
+        "country_name": "Iceland",
+        "country_code": "IS",
+        "currency": "ISK",
+        "currency_symbol": "kr",
+        "mobile_code": "+354"
+    },
+    {
+        "country_id": "102",
+        "country_name": "India",
+        "country_code": "IN",
+        "currency": "INR",
+        "currency_symbol": "₹",
+        "mobile_code": "+91"
+    },
+    {
+        "country_id": "103",
+        "country_name": "Indonesia",
+        "country_code": "ID",
+        "currency": "IDR",
+        "currency_symbol": "Rp",
+        "mobile_code": "+62"
+    },
+    {
+        "country_id": "104",
+        "country_name": "Iran",
+        "country_code": "IR",
+        "currency": "IRR",
+        "currency_symbol": "﷼",
+        "mobile_code": "+98"
+    },
+    {
+        "country_id": "105",
+        "country_name": "Iraq",
+        "country_code": "IQ",
+        "currency": "IQD",
+        "currency_symbol": "ع.د",
+        "mobile_code": "+964"
+    },
+    {
+        "country_id": "106",
+        "country_name": "Ireland",
+        "country_code": "IE",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+353"
+    },
+    {
+        "country_id": "107",
+        "country_name": "Isle of Man",
+        "country_code": "IM",
+        "currency": "GBP",
+        "currency_symbol": "£",
+        "mobile_code": "+44-1624"
+    },
+    {
+        "country_id": "108",
+        "country_name": "Israel",
+        "country_code": "IL",
+        "currency": "ILS",
+        "currency_symbol": "₪",
+        "mobile_code": "+972"
+    },
+    {
+        "country_id": "109",
+        "country_name": "Italy",
+        "country_code": "IT",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+39"
+    },
+    {
+        "country_id": "110",
+        "country_name": "Ivory Coast",
+        "country_code": "CI",
+        "currency": "XOF",
+        "currency_symbol": "Fr",
+        "mobile_code": "+225"
+    },
+    {
+        "country_id": "111",
+        "country_name": "Jamaica",
+        "country_code": "JM",
+        "currency": "JMD",
+        "currency_symbol": "$",
+        "mobile_code": "+1-876"
+    },
+    {
+        "country_id": "112",
+        "country_name": "Japan",
+        "country_code": "JP",
+        "currency": "JPY",
+        "currency_symbol": "¥",
+        "mobile_code": "+81"
+    },
+    {
+        "country_id": "113",
+        "country_name": "Jersey",
+        "country_code": "JE",
+        "currency": "GBP",
+        "currency_symbol": "£",
+        "mobile_code": "+44-1534"
+    },
+    {
+        "country_id": "114",
+        "country_name": "Jordan",
+        "country_code": "JO",
+        "currency": "JOD",
+        "currency_symbol": "د.ا",
+        "mobile_code": "+962"
+    },
+    {
+        "country_id": "115",
+        "country_name": "Kazakhstan",
+        "country_code": "KZ",
+        "currency": "KZT",
+        "currency_symbol": "₸",
+        "mobile_code": "+7"
+    },
+    {
+        "country_id": "116",
+        "country_name": "Kenya",
+        "country_code": "KE",
+        "currency": "KES",
+        "currency_symbol": "Sh",
+        "mobile_code": "+254"
+    },
+    {
+        "country_id": "117",
+        "country_name": "Kiribati",
+        "country_code": "KI",
+        "currency": "AUD",
+        "currency_symbol": "$",
+        "mobile_code": "+686"
+    },
+    {
+        "country_id": "118",
+        "country_name": "Kosovo",
+        "country_code": "XK",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "119",
+        "country_name": "Kuwait",
+        "country_code": "KW",
+        "currency": "KWD",
+        "currency_symbol": "د.ك",
+        "mobile_code": "+965"
+    },
+    {
+        "country_id": "120",
+        "country_name": "Kyrgyzstan",
+        "country_code": "KG",
+        "currency": "KGS",
+        "currency_symbol": "с",
+        "mobile_code": "+996"
+    },
+    {
+        "country_id": "121",
+        "country_name": "Laos",
+        "country_code": "LA",
+        "currency": "LAK",
+        "currency_symbol": "₭",
+        "mobile_code": "+856"
+    },
+    {
+        "country_id": "122",
+        "country_name": "Latvia",
+        "country_code": "LV",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+371"
+    },
+    {
+        "country_id": "123",
+        "country_name": "Lebanon",
+        "country_code": "LB",
+        "currency": "LBP",
+        "currency_symbol": "ل.ل",
+        "mobile_code": "+961"
+    },
+    {
+        "country_id": "124",
+        "country_name": "Lesotho",
+        "country_code": "LS",
+        "currency": "LSL",
+        "currency_symbol": "L",
+        "mobile_code": "+266"
+    },
+    {
+        "country_id": "125",
+        "country_name": "Liberia",
+        "country_code": "LR",
+        "currency": "LRD",
+        "currency_symbol": "$",
+        "mobile_code": "+231"
+    },
+    {
+        "country_id": "126",
+        "country_name": "Libya",
+        "country_code": "LY",
+        "currency": "LYD",
+        "currency_symbol": "ل.د",
+        "mobile_code": "+218"
+    },
+    {
+        "country_id": "127",
+        "country_name": "Liechtenstein",
+        "country_code": "LI",
+        "currency": "CHF",
+        "currency_symbol": "Fr",
+        "mobile_code": "+423"
+    },
+    {
+        "country_id": "128",
+        "country_name": "Lithuania",
+        "country_code": "LT",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+370"
+    },
+    {
+        "country_id": "129",
+        "country_name": "Luxembourg",
+        "country_code": "LU",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+352"
+    },
+    {
+        "country_id": "130",
+        "country_name": "Macau",
+        "country_code": "MO",
+        "currency": "MOP",
+        "currency_symbol": "P",
+        "mobile_code": "+853"
+    },
+    {
+        "country_id": "131",
+        "country_name": "Madagascar",
+        "country_code": "MG",
+        "currency": "MGA",
+        "currency_symbol": "Ar",
+        "mobile_code": "+261"
+    },
+    {
+        "country_id": "132",
+        "country_name": "Malawi",
+        "country_code": "MW",
+        "currency": "MWK",
+        "currency_symbol": "MK",
+        "mobile_code": "+265"
+    },
+    {
+        "country_id": "133",
+        "country_name": "Malaysia",
+        "country_code": "MY",
+        "currency": "MYR",
+        "currency_symbol": "RM",
+        "mobile_code": "+60"
+    },
+    {
+        "country_id": "134",
+        "country_name": "Maldives",
+        "country_code": "MV",
+        "currency": "MVR",
+        "currency_symbol": ".ރ",
+        "mobile_code": "+960"
+    },
+    {
+        "country_id": "135",
+        "country_name": "Mali",
+        "country_code": "ML",
+        "currency": "XOF",
+        "currency_symbol": "Fr",
+        "mobile_code": "+223"
+    },
+    {
+        "country_id": "136",
+        "country_name": "Malta",
+        "country_code": "MT",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+356"
+    },
+    {
+        "country_id": "137",
+        "country_name": "Marshall Islands",
+        "country_code": "MH",
+        "currency": "USD",
+        "currency_symbol": "$",
+        "mobile_code": "+692"
+    },
+    {
+        "country_id": "138",
+        "country_name": "Martinique",
+        "country_code": "MQ",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+596"
+    },
+    {
+        "country_id": "139",
+        "country_name": "Mauritania",
+        "country_code": "MR",
+        "currency": "MRU",
+        "currency_symbol": "UM",
+        "mobile_code": "+222"
+    },
+    {
+        "country_id": "140",
+        "country_name": "Mauritius",
+        "country_code": "MU",
+        "currency": "MUR",
+        "currency_symbol": "₨",
+        "mobile_code": "+230"
+    },
+    {
+        "country_id": "141",
+        "country_name": "Mayotte",
+        "country_code": "YT",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "142",
+        "country_name": "Mexico",
+        "country_code": "MX",
+        "currency": "MXN",
+        "currency_symbol": "$",
+        "mobile_code": "+52"
+    },
+    {
+        "country_id": "143",
+        "country_name": "Micronesia",
+        "country_code": "FM",
+        "currency": "USD",
+        "currency_symbol": "$",
+        "mobile_code": "+691"
+    },
+    {
+        "country_id": "144",
+        "country_name": "Moldova",
+        "country_code": "MD",
+        "currency": "MDL",
+        "currency_symbol": "L",
+        "mobile_code": "+373"
+    },
+    {
+        "country_id": "145",
+        "country_name": "Monaco",
+        "country_code": "MC",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+377"
+    },
+    {
+        "country_id": "146",
+        "country_name": "Mongolia",
+        "country_code": "MN",
+        "currency": "MNT",
+        "currency_symbol": "₮",
+        "mobile_code": "+976"
+    },
+    {
+        "country_id": "147",
+        "country_name": "Montenegro",
+        "country_code": "ME",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+382"
+    },
+    {
+        "country_id": "148",
+        "country_name": "Montserrat",
+        "country_code": "MS",
+        "currency": "XCD",
+        "currency_symbol": "$",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "149",
+        "country_name": "Morocco",
+        "country_code": "MA",
+        "currency": "MAD",
+        "currency_symbol": "د.م.",
+        "mobile_code": "+212"
+    },
+    {
+        "country_id": "150",
+        "country_name": "Mozambique",
+        "country_code": "MZ",
+        "currency": "MZN",
+        "currency_symbol": "MT",
+        "mobile_code": "+258"
+    },
+    {
+        "country_id": "151",
+        "country_name": "Myanmar",
+        "country_code": "MM",
+        "currency": "MMK",
+        "currency_symbol": "Ks",
+        "mobile_code": "+95"
+    },
+    {
+        "country_id": "152",
+        "country_name": "Namibia",
+        "country_code": "NA",
+        "currency": "NAD",
+        "currency_symbol": "$",
+        "mobile_code": "+264"
+    },
+    {
+        "country_id": "153",
+        "country_name": "Nauru",
+        "country_code": "NR",
+        "currency": "AUD",
+        "currency_symbol": "$",
+        "mobile_code": "+674"
+    },
+    {
+        "country_id": "154",
+        "country_name": "Nepal",
+        "country_code": "NP",
+        "currency": "NPR",
+        "currency_symbol": "₨",
+        "mobile_code": "+977"
+    },
+    {
+        "country_id": "155",
+        "country_name": "Netherlands",
+        "country_code": "NL",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+31"
+    },
+    {
+        "country_id": "156",
+        "country_name": "New Caledonia",
+        "country_code": "NC",
+        "currency": "XPF",
+        "currency_symbol": "₣",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "157",
+        "country_name": "New Zealand",
+        "country_code": "NZ",
+        "currency": "NZD",
+        "currency_symbol": "$",
+        "mobile_code": "+64"
+    },
+    {
+        "country_id": "158",
+        "country_name": "Nicaragua",
+        "country_code": "NI",
+        "currency": "NIO",
+        "currency_symbol": "C$",
+        "mobile_code": "+505"
+    },
+    {
+        "country_id": "159",
+        "country_name": "Niger",
+        "country_code": "NE",
+        "currency": "XOF",
+        "currency_symbol": "Fr",
+        "mobile_code": "+227"
+    },
+    {
+        "country_id": "160",
+        "country_name": "Nigeria",
+        "country_code": "NG",
+        "currency": "NGN",
+        "currency_symbol": "₦",
+        "mobile_code": "+234"
+    },
+    {
+        "country_id": "161",
+        "country_name": "Niue",
+        "country_code": "NU",
+        "currency": "NZD",
+        "currency_symbol": "$",
+        "mobile_code": "+683"
+    },
+    {
+        "country_id": "162",
+        "country_name": "Norfolk Island",
+        "country_code": "NF",
+        "currency": "AUD",
+        "currency_symbol": "$",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "163",
+        "country_name": "North Korea",
+        "country_code": "KP",
+        "currency": "KPW",
+        "currency_symbol": "₩",
+        "mobile_code": "+850"
+    },
+    {
+        "country_id": "164",
+        "country_name": "North Macedonia",
+        "country_code": "MK",
+        "currency": "MKD",
+        "currency_symbol": "den",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "165",
+        "country_name": "Northern Mariana Islands",
+        "country_code": "MP",
+        "currency": "USD",
+        "currency_symbol": "$",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "166",
+        "country_name": "Norway",
+        "country_code": "NO",
+        "currency": "NOK",
+        "currency_symbol": "kr",
+        "mobile_code": "+47"
+    },
+    {
+        "country_id": "167",
+        "country_name": "Oman",
+        "country_code": "OM",
+        "currency": "OMR",
+        "currency_symbol": "ر.ع.",
+        "mobile_code": "+968"
+    },
+    {
+        "country_id": "168",
+        "country_name": "Pakistan",
+        "country_code": "PK",
+        "currency": "PKR",
+        "currency_symbol": "₨",
+        "mobile_code": "+92"
+    },
+    {
+        "country_id": "169",
+        "country_name": "Palau",
+        "country_code": "PW",
+        "currency": "USD",
+        "currency_symbol": "$",
+        "mobile_code": "+680"
+    },
+    {
+        "country_id": "170",
+        "country_name": "Palestine",
+        "country_code": "PS",
+        "currency": "EGP",
+        "currency_symbol": "E£",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "171",
+        "country_name": "Panama",
+        "country_code": "PA",
+        "currency": "PAB",
+        "currency_symbol": "B/.",
+        "mobile_code": "+507"
+    },
+    {
+        "country_id": "172",
+        "country_name": "Papua New Guinea",
+        "country_code": "PG",
+        "currency": "PGK",
+        "currency_symbol": "K",
+        "mobile_code": "+675"
+    },
+    {
+        "country_id": "173",
+        "country_name": "Paraguay",
+        "country_code": "PY",
+        "currency": "PYG",
+        "currency_symbol": "₲",
+        "mobile_code": "+595"
+    },
+    {
+        "country_id": "174",
+        "country_name": "Peru",
+        "country_code": "PE",
+        "currency": "PEN",
+        "currency_symbol": "S/ ",
+        "mobile_code": "+51"
+    },
+    {
+        "country_id": "175",
+        "country_name": "Philippines",
+        "country_code": "PH",
+        "currency": "PHP",
+        "currency_symbol": "₱",
+        "mobile_code": "+63"
+    },
+    {
+        "country_id": "176",
+        "country_name": "Pitcairn Islands",
+        "country_code": "PN",
+        "currency": "NZD",
+        "currency_symbol": "$",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "177",
+        "country_name": "Poland",
+        "country_code": "PL",
+        "currency": "PLN",
+        "currency_symbol": "zł",
+        "mobile_code": "+48"
+    },
+    {
+        "country_id": "178",
+        "country_name": "Portugal",
+        "country_code": "PT",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+351"
+    },
+    {
+        "country_id": "179",
+        "country_name": "Puerto Rico",
+        "country_code": "PR",
+        "currency": "USD",
+        "currency_symbol": "$",
+        "mobile_code": "+1-787"
+    },
+    {
+        "country_id": "180",
+        "country_name": "Qatar",
+        "country_code": "QA",
+        "currency": "QAR",
+        "currency_symbol": "ر.ق",
+        "mobile_code": "+974"
+    },
+    {
+        "country_id": "181",
+        "country_name": "Republic of the Congo",
+        "country_code": "CG",
+        "currency": "XAF",
+        "currency_symbol": "Fr",
+        "mobile_code": "+242"
+    },
+    {
+        "country_id": "182",
+        "country_name": "Réunion",
+        "country_code": "RE",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "183",
+        "country_name": "Romania",
+        "country_code": "RO",
+        "currency": "RON",
+        "currency_symbol": "lei",
+        "mobile_code": "+40"
+    },
+    {
+        "country_id": "184",
+        "country_name": "Russia",
+        "country_code": "RU",
+        "currency": "RUB",
+        "currency_symbol": "₽",
+        "mobile_code": "+7"
+    },
+    {
+        "country_id": "185",
+        "country_name": "Rwanda",
+        "country_code": "RW",
+        "currency": "RWF",
+        "currency_symbol": "Fr",
+        "mobile_code": "+250"
+    },
+    {
+        "country_id": "186",
+        "country_name": "Saint Barthélemy",
+        "country_code": "BL",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "187",
+        "country_name": "Saint Helena, Ascension and Tristan da Cunha",
+        "country_code": "SH",
+        "currency": "GBP",
+        "currency_symbol": "£",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "188",
+        "country_name": "Saint Kitts and Nevis",
+        "country_code": "KN",
+        "currency": "XCD",
+        "currency_symbol": "$",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "189",
+        "country_name": "Saint Lucia",
+        "country_code": "LC",
+        "currency": "XCD",
+        "currency_symbol": "$",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "190",
+        "country_name": "Saint Martin",
+        "country_code": "MF",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "191",
+        "country_name": "Saint Pierre and Miquelon",
+        "country_code": "PM",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "192",
+        "country_name": "Saint Vincent and the Grenadines",
+        "country_code": "VC",
+        "currency": "XCD",
+        "currency_symbol": "$",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "193",
+        "country_name": "Samoa",
+        "country_code": "WS",
+        "currency": "WST",
+        "currency_symbol": "T",
+        "mobile_code": "+685"
+    },
+    {
+        "country_id": "194",
+        "country_name": "San Marino",
+        "country_code": "SM",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+378"
+    },
+    {
+        "country_id": "195",
+        "country_name": "São Tomé and Príncipe",
+        "country_code": "ST",
+        "currency": "STN",
+        "currency_symbol": "Db",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "196",
+        "country_name": "Saudi Arabia",
+        "country_code": "SA",
+        "currency": "SAR",
+        "currency_symbol": "ر.س",
+        "mobile_code": "+966"
+    },
+    {
+        "country_id": "197",
+        "country_name": "Senegal",
+        "country_code": "SN",
+        "currency": "XOF",
+        "currency_symbol": "Fr",
+        "mobile_code": "+221"
+    },
+    {
+        "country_id": "198",
+        "country_name": "Serbia",
+        "country_code": "RS",
+        "currency": "RSD",
+        "currency_symbol": "дин.",
+        "mobile_code": "+381"
+    },
+    {
+        "country_id": "199",
+        "country_name": "Seychelles",
+        "country_code": "SC",
+        "currency": "SCR",
+        "currency_symbol": "₨",
+        "mobile_code": "+248"
+    },
+    {
+        "country_id": "200",
+        "country_name": "Sierra Leone",
+        "country_code": "SL",
+        "currency": "SLL",
+        "currency_symbol": "Le",
+        "mobile_code": "+232"
+    },
+    {
+        "country_id": "201",
+        "country_name": "Singapore",
+        "country_code": "SG",
+        "currency": "SGD",
+        "currency_symbol": "$",
+        "mobile_code": "+65"
+    },
+    {
+        "country_id": "202",
+        "country_name": "Sint Maarten",
+        "country_code": "SX",
+        "currency": "ANG",
+        "currency_symbol": "ƒ",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "203",
+        "country_name": "Slovakia",
+        "country_code": "SK",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+421"
+    },
+    {
+        "country_id": "204",
+        "country_name": "Slovenia",
+        "country_code": "SI",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+386"
+    },
+    {
+        "country_id": "205",
+        "country_name": "Solomon Islands",
+        "country_code": "SB",
+        "currency": "SBD",
+        "currency_symbol": "$",
+        "mobile_code": "+677"
+    },
+    {
+        "country_id": "206",
+        "country_name": "Somalia",
+        "country_code": "SO",
+        "currency": "SOS",
+        "currency_symbol": "Sh",
+        "mobile_code": "+252"
+    },
+    {
+        "country_id": "207",
+        "country_name": "South Africa",
+        "country_code": "ZA",
+        "currency": "ZAR",
+        "currency_symbol": "R",
+        "mobile_code": "+27"
+    },
+    {
+        "country_id": "208",
+        "country_name": "South Georgia",
+        "country_code": "GS",
+        "currency": "SHP",
+        "currency_symbol": "£",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "209",
+        "country_name": "South Korea",
+        "country_code": "KR",
+        "currency": "KRW",
+        "currency_symbol": "₩",
+        "mobile_code": "+82"
+    },
+    {
+        "country_id": "210",
+        "country_name": "South Sudan",
+        "country_code": "SS",
+        "currency": "SSP",
+        "currency_symbol": "£",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "211",
+        "country_name": "Spain",
+        "country_code": "ES",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+34"
+    },
+    {
+        "country_id": "212",
+        "country_name": "Sri Lanka",
+        "country_code": "LK",
+        "currency": "LKR",
+        "currency_symbol": "Rs  රු",
+        "mobile_code": "+94"
+    },
+    {
+        "country_id": "213",
+        "country_name": "Sudan",
+        "country_code": "SD",
+        "currency": "SDG",
+        "currency_symbol": "N/A",
+        "mobile_code": "+249"
+    },
+    {
+        "country_id": "214",
+        "country_name": "Suriname",
+        "country_code": "SR",
+        "currency": "SRD",
+        "currency_symbol": "$",
+        "mobile_code": "+597"
+    },
+    {
+        "country_id": "215",
+        "country_name": "Svalbard and Jan Mayen",
+        "country_code": "SJ",
+        "currency": "NOK",
+        "currency_symbol": "kr",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "216",
+        "country_name": "Sweden",
+        "country_code": "SE",
+        "currency": "SEK",
+        "currency_symbol": "kr",
+        "mobile_code": "+46"
+    },
+    {
+        "country_id": "217",
+        "country_name": "Switzerland",
+        "country_code": "CH",
+        "currency": "CHF",
+        "currency_symbol": "Fr.",
+        "mobile_code": "+41"
+    },
+    {
+        "country_id": "218",
+        "country_name": "Syria",
+        "country_code": "SY",
+        "currency": "SYP",
+        "currency_symbol": "£",
+        "mobile_code": "+963"
+    },
+    {
+        "country_id": "219",
+        "country_name": "Taiwan",
+        "country_code": "TW",
+        "currency": "TWD",
+        "currency_symbol": "$",
+        "mobile_code": "+886"
+    },
+    {
+        "country_id": "220",
+        "country_name": "Tajikistan",
+        "country_code": "TJ",
+        "currency": "TJS",
+        "currency_symbol": "ЅМ",
+        "mobile_code": "+992"
+    },
+    {
+        "country_id": "221",
+        "country_name": "Tanzania",
+        "country_code": "TZ",
+        "currency": "TZS",
+        "currency_symbol": "Sh",
+        "mobile_code": "+255"
+    },
+    {
+        "country_id": "222",
+        "country_name": "Thailand",
+        "country_code": "TH",
+        "currency": "THB",
+        "currency_symbol": "฿",
+        "mobile_code": "+66"
+    },
+    {
+        "country_id": "223",
+        "country_name": "Timor-Leste",
+        "country_code": "TL",
+        "currency": "USD",
+        "currency_symbol": "$",
+        "mobile_code": "+670"
+    },
+    {
+        "country_id": "224",
+        "country_name": "Togo",
+        "country_code": "TG",
+        "currency": "XOF",
+        "currency_symbol": "Fr",
+        "mobile_code": "+228"
+    },
+    {
+        "country_id": "225",
+        "country_name": "Tokelau",
+        "country_code": "TK",
+        "currency": "NZD",
+        "currency_symbol": "$",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "226",
+        "country_name": "Tonga",
+        "country_code": "TO",
+        "currency": "TOP",
+        "currency_symbol": "T$",
+        "mobile_code": "+676"
+    },
+    {
+        "country_id": "227",
+        "country_name": "Trinidad and Tobago",
+        "country_code": "TT",
+        "currency": "TTD",
+        "currency_symbol": "$",
+        "mobile_code": "+1-868"
+    },
+    {
+        "country_id": "228",
+        "country_name": "Tunisia",
+        "country_code": "TN",
+        "currency": "TND",
+        "currency_symbol": "د.ت",
+        "mobile_code": "+216"
+    },
+    {
+        "country_id": "229",
+        "country_name": "Turkey",
+        "country_code": "TR",
+        "currency": "TRY",
+        "currency_symbol": "₺",
+        "mobile_code": "+90"
+    },
+    {
+        "country_id": "230",
+        "country_name": "Turkmenistan",
+        "country_code": "TM",
+        "currency": "TMT",
+        "currency_symbol": "m",
+        "mobile_code": "+993"
+    },
+    {
+        "country_id": "231",
+        "country_name": "Turks and Caicos Islands",
+        "country_code": "TC",
+        "currency": "USD",
+        "currency_symbol": "$",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "232",
+        "country_name": "Tuvalu",
+        "country_code": "TV",
+        "currency": "AUD",
+        "currency_symbol": "$",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "233",
+        "country_name": "Uganda",
+        "country_code": "UG",
+        "currency": "UGX",
+        "currency_symbol": "Sh",
+        "mobile_code": "+256"
+    },
+    {
+        "country_id": "234",
+        "country_name": "Ukraine",
+        "country_code": "UA",
+        "currency": "UAH",
+        "currency_symbol": "₴",
+        "mobile_code": "+380"
+    },
+    {
+        "country_id": "235",
+        "country_name": "United Arab Emirates",
+        "country_code": "AE",
+        "currency": "AED",
+        "currency_symbol": "د.إ",
+        "mobile_code": "+971"
+    },
+    {
+        "country_id": "236",
+        "country_name": "United Kingdom",
+        "country_code": "GB",
+        "currency": "GBP",
+        "currency_symbol": "£",
+        "mobile_code": "+44"
+    },
+    {
+        "country_id": "237",
+        "country_name": "United States Minor Outlying Islands",
+        "country_code": "UM",
+        "currency": "USD",
+        "currency_symbol": "$",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "238",
+        "country_name": "United States Virgin Islands",
+        "country_code": "VI",
+        "currency": "USD",
+        "currency_symbol": "$",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "239",
+        "country_name": "United States",
+        "country_code": "US",
+        "currency": "USD",
+        "currency_symbol": "$",
+        "mobile_code": "+1"
+    },
+    {
+        "country_id": "240",
+        "country_name": "Uruguay",
+        "country_code": "UY",
+        "currency": "UYU",
+        "currency_symbol": "$",
+        "mobile_code": "+598"
+    },
+    {
+        "country_id": "241",
+        "country_name": "Vanuatu",
+        "country_code": "VU",
+        "currency": "VUV",
+        "currency_symbol": "Vt",
+        "mobile_code": "+678"
+    },
+    {
+        "country_id": "242",
+        "country_name": "Vatican City",
+        "country_code": "VA",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "mobile_code": "+39"
+    },
+    {
+        "country_id": "243",
+        "country_name": "Venezuela",
+        "country_code": "VE",
+        "currency": "VES",
+        "currency_symbol": "Bs.S.",
+        "mobile_code": "+58"
+    },
+    {
+        "country_id": "244",
+        "country_name": "Vietnam",
+        "country_code": "VN",
+        "currency": "VND",
+        "currency_symbol": "₫",
+        "mobile_code": "+84"
+    },
+    {
+        "country_id": "245",
+        "country_name": "Wallis and Futuna",
+        "country_code": "WF",
+        "currency": "XPF",
+        "currency_symbol": "₣",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "246",
+        "country_name": "Western Sahara",
+        "country_code": "EH",
+        "currency": "DZD",
+        "currency_symbol": "دج",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "247",
+        "country_name": "Yemen",
+        "country_code": "YE",
+        "currency": "YER",
+        "currency_symbol": "﷼",
+        "mobile_code": "+967"
+    },
+    {
+        "country_id": "248",
+        "country_name": "Zambia",
+        "country_code": "ZM",
+        "currency": "ZMW",
+        "currency_symbol": "ZK",
+        "mobile_code": "+260"
+    },
+    {
+        "country_id": "249",
+        "country_name": "Zimbabwe",
+        "country_code": "ZW",
+        "currency": "ZWL",
+        "currency_symbol": "$",
+        "mobile_code": "+263"
+    },
+    {
+        "country_id": "250",
+        "country_name": "China (Simplified Chinese)",
+        "country_code": "zh-Hans",
+        "currency": "CNY",
+        "currency_symbol": "¥",
+        "mobile_code": "+000"
+    },
+    {
+        "country_id": "258",
+        "country_name": "Uzbekistan",
+        "country_code": "uz",
+        "currency": "UZS",
+        "currency_symbol": "лв",
+        "mobile_code": "+000"
+    }
+]
